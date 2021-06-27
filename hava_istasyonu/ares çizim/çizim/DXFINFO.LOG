@@ -1,0 +1,148 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+WARNING (001678): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001680): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Model_Space", org=(0,0), 0 entities.
+WARNING (001702): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (001718): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001720): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space", org=(0,0), 0 entities.
+WARNING (001730): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (001758): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001760): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space0", org=(0,0), 0 entities.
+CIRCLE entity, line 1780
+WARNING (001790): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(1527,5080), r=159
+CIRCLE entity, line 1804
+WARNING (001814): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(6607,3556), r=159
+CIRCLE entity, line 1828
+WARNING (001838): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(6607,762), r=159
+CIRCLE entity, line 1852
+WARNING (001862): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(1397,254), r=159
+CIRCLE entity, line 1876
+WARNING (001886): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(6350,254), r=25
+CIRCLE entity, line 1900
+WARNING (001910): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(6096,254), r=25
+CIRCLE entity, line 1924
+WARNING (001934): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5842,254), r=25
+CIRCLE entity, line 1948
+WARNING (001958): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5588,254), r=25
+CIRCLE entity, line 1972
+WARNING (001982): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5334,254), r=25
+CIRCLE entity, line 1996
+WARNING (002006): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5080,254), r=25
+CIRCLE entity, line 2020
+WARNING (002030): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(4572,254), r=25
+CIRCLE entity, line 2044
+WARNING (002054): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(4318,254), r=25
+CIRCLE entity, line 2068
+WARNING (002078): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(4064,254), r=25
+CIRCLE entity, line 2092
+WARNING (002102): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3810,254), r=25
+CIRCLE entity, line 2116
+WARNING (002126): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3556,254), r=25
+CIRCLE entity, line 2140
+WARNING (002150): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3302,254), r=25
+CIRCLE entity, line 2164
+WARNING (002174): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3048,254), r=25
+CIRCLE entity, line 2188
+WARNING (002198): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(2794,254), r=25
+CIRCLE entity, line 2212
+WARNING (002222): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(6350,5080), r=25
+CIRCLE entity, line 2236
+WARNING (002246): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(6096,5080), r=25
+CIRCLE entity, line 2260
+WARNING (002270): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5842,5080), r=25
+CIRCLE entity, line 2284
+WARNING (002294): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5588,5080), r=25
+CIRCLE entity, line 2308
+WARNING (002318): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5334,5080), r=25
+CIRCLE entity, line 2332
+WARNING (002342): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(5080,5080), r=25
+CIRCLE entity, line 2356
+WARNING (002366): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(4826,5080), r=25
+CIRCLE entity, line 2380
+WARNING (002390): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(4572,5080), r=25
+CIRCLE entity, line 2404
+WARNING (002414): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(4169,5080), r=25
+CIRCLE entity, line 2428
+WARNING (002438): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3915,5080), r=25
+CIRCLE entity, line 2452
+WARNING (002462): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3661,5080), r=25
+CIRCLE entity, line 2476
+WARNING (002486): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3407,5080), r=25
+CIRCLE entity, line 2500
+WARNING (002510): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(3153,5080), r=25
+CIRCLE entity, line 2524
+WARNING (002534): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(2899,5080), r=25
+CIRCLE entity, line 2548
+WARNING (002558): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(2645,5080), r=25
+CIRCLE entity, line 2572
+WARNING (002582): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(2391,5080), r=25
+CIRCLE entity, line 2596
+WARNING (002606): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(2137,5080), r=25
+CIRCLE entity, line 2620
+WARNING (002630): CIRCLE entity group 6 unknown/not supported - ignored.
+CIRCLE: layer="0", c=(1883,5080), r=25
+LINE entity, line 2644
+WARNING (002654): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6855,3785), p2=(6855,508)
+LINE entity, line 2672
+WARNING (002682): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6607,0), p2=(0,0)
+LINE entity, line 2700
+WARNING (002710): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6607,5181), p2=(6607,4039)
+LINE entity, line 2728
+WARNING (002738): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6607,0), p2=(6607,254)
+LINE entity, line 2756
+WARNING (002766): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6607,4039), p2=(6855,3785)
+LINE entity, line 2784
+WARNING (002794): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6855,508), p2=(6607,254)
+LINE entity, line 2812
+WARNING (002822): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(0,0), p2=(0,5338)
+LINE entity, line 2840
+WARNING (002850): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6451,5338), p2=(0,5338)
+LINE entity, line 2868
+WARNING (002878): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(6607,5181), p2=(6451,5338)
